@@ -7,3 +7,8 @@ console.log(totalPrice);
 price1Number = parseInt(price1);
 console.log(price1Number);
 // 
+
+var gpa =' 4.71';
+var gpaNumber = parseFloat(gpa);
+console.log(gpaNumber);
+
